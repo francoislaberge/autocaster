@@ -6,8 +6,8 @@ function AutocasterReceiver(client, session) {
 }
 
 
-//AutocasterReceiver.APP_ID = 'D67DC17A';
-AutocasterReceiver.APP_ID = '6F16BEC7';
+AutocasterReceiver.APP_ID = 'D67DC17A';
+//AutocasterReceiver.APP_ID = '6F16BEC7';
 
 util.inherits(AutocasterReceiver, Application);
 
