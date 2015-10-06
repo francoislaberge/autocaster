@@ -1,15 +1,23 @@
 {
   "name": "autocaster",
   "version": "0.1.0",
-  "description": "",
+  "description": "Easier Google/Chrome Cast Prototyping",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "castv2-client": "^1.1.0",
-    "mdns": "^2.2.10"
+    "mdns": "^2.2.10",
+    "util": "^0.10.3"
   },
   "author": "Francois Laberge <francoislaberge@gmail.com>",
-  "license": "MIT"
+  "repository": "https://github.com/francoislaberge/autocaster",
+  "license": "MIT",
+  "keywords": [
+    "chromecast",
+    "google cast",
+    "second screen",
+    "prototyping"
+  ]
 }
