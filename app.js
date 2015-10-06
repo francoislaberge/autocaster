@@ -24,7 +24,7 @@ function ondeviceup(host) {
         if(err){
             console.log(err);
         }
-        console.log(player);
+        //console.log(player);
     });
 
   });
