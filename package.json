@@ -1,0 +1,15 @@
+{
+  "name": "autocaster",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "castv2-client": "^1.1.0",
+    "mdns": "^2.2.10"
+  },
+  "author": "Francois Laberge <francoislaberge@gmail.com>",
+  "license": "MIT"
+}
